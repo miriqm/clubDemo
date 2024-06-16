@@ -29,5 +29,13 @@ namespace Club_Demo
 
             lblIngreso.Text = "Usuario: " + usuario + " " + " (" + rol + ")";
         }
+
+        private void btnInscribir_Click(object sender, EventArgs e)
+        {
+            frmInscripcion inscripcion = new frmInscripcion();
+
+            inscripcion.Show();
+            this.Hide();
+        }
     }
 }

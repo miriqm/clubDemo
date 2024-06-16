@@ -29,7 +29,7 @@ namespace Club_Demo
             }
 
         // proceso de interacción
-        public MySqlConnection CrearConcexion()
+        public MySqlConnection CrearConexion()
         {
             // instanciamos una conexion
             MySqlConnection cadena = new MySqlConnection();
@@ -46,7 +46,7 @@ namespace Club_Demo
             catch (Exception ex)
             {
                 cadena = null;
-                throw;
+                throw ex;
             }
             return cadena;
         }

@@ -20,7 +20,7 @@ namespace Club_Demo
             try
             {
                 
-                sqlCon = Conexion.getInstancia().CrearConcexion();
+                sqlCon = Conexion.getInstancia().CrearConexion();
 
                 // el comando es un elemento que almacena en este caso el nombre
                 // del procedimiento almacenado y la referencia a la conexion
@@ -44,7 +44,7 @@ namespace Club_Demo
             }
             catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
                 // como proceso final
                 finally

@@ -46,6 +46,7 @@
             this.btnInscribir.TabIndex = 0;
             this.btnInscribir.Text = "Inscribir Postulante";
             this.btnInscribir.UseVisualStyleBackColor = true;
+            this.btnInscribir.Click += new System.EventHandler(this.btnInscribir_Click);
             // 
             // btnPagar
             // 
@@ -112,6 +113,7 @@
             this.Controls.Add(this.btnPagar);
             this.Controls.Add(this.btnInscribir);
             this.Name = "Principal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ventana Principal";
             this.Load += new System.EventHandler(this.Principal_Load);
             this.ResumeLayout(false);

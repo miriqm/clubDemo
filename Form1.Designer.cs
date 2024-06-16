@@ -52,7 +52,7 @@
             // txtUser
             // 
             this.txtUser.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUser.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUser.Location = new System.Drawing.Point(431, 171);
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(232, 19);
@@ -65,7 +65,7 @@
             // txtPass
             // 
             this.txtPass.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtPass.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPass.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPass.Location = new System.Drawing.Point(431, 248);
             this.txtPass.Name = "txtPass";
             this.txtPass.Size = new System.Drawing.Size(232, 19);
@@ -108,6 +108,7 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Club Deportivo";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
