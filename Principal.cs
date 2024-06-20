@@ -37,5 +37,12 @@ namespace Club_Demo
             inscripcion.Show();
             this.Hide();
         }
+
+        private void btnPagar_Click(object sender, EventArgs e)
+        {
+            frmPago frmpago = new frmPago();
+            frmpago.Show();
+            this.Hide();
+        }
     }
 }

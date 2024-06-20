@@ -11,12 +11,21 @@ namespace Club_Demo.Datos
 {
     internal class Persona
     {
+
+        private string Nombre;
+        private string Apellido;
+        private int Doc;
+        private string Contacto;
+
+      
+
         public string Nueva_Pers(E_Persona pers)
         {
             string salida;
             MySqlConnection sqlCon = new MySqlConnection();
             try
             {
+                // SP NuevaPers realiza el insert en la bd
                 sqlCon = Conexion.getInstancia().CrearConexion();
                 MySqlCommand comando = new MySqlCommand("NuevaPers", sqlCon);
                 
@@ -32,7 +41,6 @@ namespace Club_Demo.Datos
                 comando.Parameters.Add("Con", MySqlDbType.VarChar).Value = pers.ContactoP;
 
                 comando.Parameters.Add("Tip", MySqlDbType.VarChar).Value = pers.TipoP;
-
 
 
                 MySqlParameter ParCodigo = new MySqlParameter();

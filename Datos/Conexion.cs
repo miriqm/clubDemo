@@ -56,7 +56,7 @@ namespace Club_Demo
                 if (con == null) // quiere decir que la conexion esta cerrada
                 {
                     con = new Conexion(); // se crea una nueva
-                    MessageBox.Show("Se creo una conexion!!!! Mensaje desde Conexion");
+                   // MessageBox.Show("Se creo una conexion!!!! Mensaje desde Conexion");
                 }
                 return con;
             }

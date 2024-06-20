@@ -44,6 +44,7 @@
             this.btnIngresar = new System.Windows.Forms.Button();
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnVolver = new System.Windows.Forms.Button();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvDatos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -226,11 +227,22 @@
             this.btnVolver.UseVisualStyleBackColor = true;
             this.btnVolver.Click += new System.EventHandler(this.btnVolver_Click);
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(677, 158);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(92, 20);
+            this.checkBox1.TabIndex = 16;
+            this.checkBox1.Text = "Apto Fisico";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // frmInscripcion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(949, 556);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.btnVolver);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.btnIngresar);
@@ -276,5 +288,6 @@
         private System.Windows.Forms.Button btnIngresar;
         private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.Button btnVolver;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }

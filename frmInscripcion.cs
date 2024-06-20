@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace Club_Demo
 {
@@ -33,7 +34,7 @@ namespace Club_Demo
             txtApellido.Text = "";
             txtDocumento.Text = "";
             txtDireccion.Text = "";
-            txtContacto.Text = "";           
+            txtContacto.Text = "";
             cboTipo.Text = "";
             txtNombre.Focus();
         }
@@ -41,8 +42,8 @@ namespace Club_Demo
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             if (txtNombre.Text == "" || txtApellido.Text == "" ||
-              txtDocumento.Text == "" || txtDireccion.Text == "" ||
-              txtContacto.Text == "" || cboTipo.Text == "")
+            txtDocumento.Text == "" || txtDireccion.Text == "" ||
+              txtContacto.Text == "" || cboTipo.Text == "" || checkBox1.Checked==false )
             {
                 MessageBox.Show("Debe completar datos requeridos (*) ",
                 "AVISO DEL SISTEMA", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -71,7 +72,7 @@ namespace Club_Demo
                     }
                     else
                     {
-                        MessageBox.Show("se almaceno con exito con el codigo Nro " +
+                        MessageBox.Show("Se almaceno con exito con el codigo Nro " +
                          respuesta, "AVISO DEL SISTEMA",
                         MessageBoxButtons.OK, MessageBoxIcon.Question);
                     }
