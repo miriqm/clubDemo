@@ -7,44 +7,28 @@
       "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|D:\\workspace-C\\Club-Demo\\datos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:datos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\datos\\cuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:datos\\cuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\entidades\\e_cuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:entidades\\e_cuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|D:\\workspace-C\\Club-Demo\\frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:frmpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\datos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:datos\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\datos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|D:\\workspace-C\\Club-Demo\\datos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:datos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|D:\\workspace-C\\Club-Demo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\entidades\\e_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:entidades\\e_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|d:\\workspace-c\\club-demo\\frmpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABD5A724-AB3E-4AAF-ACD3-385924E31B89}|Club-Demo.csproj|solutionrelative:frmpago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmPago.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\frmPago.cs",
               "RelativeDocumentMoniker": "frmPago.cs",
@@ -79,28 +63,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Principal.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Principal.cs",
-              "RelativeDocumentMoniker": "Principal.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\Principal.cs",
-              "RelativeToolTip": "Principal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAMAAAA",
+              "DocumentIndex": 6,
+              "Title": "E_Pago.cs",
+              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Entidades\\E_Pago.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_Pago.cs",
+              "ToolTip": "D:\\workspace-C\\Club-Demo\\Entidades\\E_Pago.cs",
+              "RelativeToolTip": "Entidades\\E_Pago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:52:37.363Z",
+              "WhenOpened": "2024-06-21T08:50:49.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Principal.cs",
-              "RelativeDocumentMoniker": "Principal.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Principal.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "Cuota.cs",
+              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Datos\\Cuota.cs",
+              "RelativeDocumentMoniker": "Datos\\Cuota.cs",
+              "ToolTip": "D:\\workspace-C\\Club-Demo\\Datos\\Cuota.cs",
+              "RelativeToolTip": "Datos\\Cuota.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:52:34.243Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-21T08:25:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E_Cuota.cs",
+              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Entidades\\E_Cuota.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_Cuota.cs",
+              "ToolTip": "D:\\workspace-C\\Club-Demo\\Entidades\\E_Cuota.cs",
+              "RelativeToolTip": "Entidades\\E_Cuota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:48:34.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Datos\\Persona.cs",
+              "RelativeDocumentMoniker": "Datos\\Persona.cs",
+              "ToolTip": "D:\\workspace-C\\Club-Demo\\Datos\\Persona.cs",
+              "RelativeToolTip": "Datos\\Persona.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:09:59.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Datos\\Pago.cs",
+              "RelativeDocumentMoniker": "Datos\\Pago.cs",
+              "ToolTip": "D:\\workspace-C\\Club-Demo\\Datos\\Pago.cs",
+              "RelativeToolTip": "Datos\\Pago.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:35:53.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,100 +134,10 @@
               "RelativeDocumentMoniker": "frmPago.cs",
               "ToolTip": "D:\\workspace-C\\Club-Demo\\frmPago.cs",
               "RelativeToolTip": "frmPago.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBkAAAA/AAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAtwDUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T10:16:00.572Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:21:47.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pago.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Datos\\Pago.cs",
-              "RelativeDocumentMoniker": "Datos\\Pago.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\Datos\\Pago.cs",
-              "RelativeToolTip": "Datos\\Pago.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAewCsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T10:35:53.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Datos\\Persona.cs",
-              "RelativeDocumentMoniker": "Datos\\Persona.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\Datos\\Persona.cs",
-              "RelativeToolTip": "Datos\\Persona.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:09:59.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "E_Pago.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\Entidades\\E_Pago.cs",
-              "RelativeDocumentMoniker": "Entidades\\E_Pago.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\Entidades\\E_Pago.cs",
-              "RelativeToolTip": "Entidades\\E_Pago.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:46:02.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmInscripcion.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\frmInscripcion.cs",
-              "RelativeDocumentMoniker": "frmInscripcion.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\frmInscripcion.cs",
-              "RelativeToolTip": "frmInscripcion.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T11:24:40.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmPago.Designer.cs",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\frmPago.Designer.cs",
-              "RelativeDocumentMoniker": "frmPago.Designer.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\frmPago.Designer.cs",
-              "RelativeToolTip": "frmPago.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:17:21.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmInscripcion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\workspace-C\\Club-Demo\\frmInscripcion.cs",
-              "RelativeDocumentMoniker": "frmInscripcion.cs",
-              "ToolTip": "D:\\workspace-C\\Club-Demo\\frmInscripcion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmInscripcion.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:34:55.471Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },

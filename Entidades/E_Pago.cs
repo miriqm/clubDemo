@@ -12,7 +12,5 @@ namespace Club_Demo.Entidades
         public int idPers { get; set; }
         public double monto { get; set; }
         public DateTime fechaPago { get; set; }
-
-
     }
 }

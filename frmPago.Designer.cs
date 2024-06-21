@@ -37,6 +37,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnCancelPago = new System.Windows.Forms.Button();
             this.btnVolver = new System.Windows.Forms.Button();
+            this.btnRegistrarCuota = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // cmbTipoCuota
@@ -109,7 +110,7 @@
             // 
             // btnCancelPago
             // 
-            this.btnCancelPago.Location = new System.Drawing.Point(317, 332);
+            this.btnCancelPago.Location = new System.Drawing.Point(516, 332);
             this.btnCancelPago.Name = "btnCancelPago";
             this.btnCancelPago.Size = new System.Drawing.Size(169, 43);
             this.btnCancelPago.TabIndex = 7;
@@ -128,11 +129,21 @@
             this.btnVolver.UseVisualStyleBackColor = true;
             this.btnVolver.Click += new System.EventHandler(this.btnVolver_Click);
             // 
+            // btnRegistrarCuota
+            // 
+            this.btnRegistrarCuota.Location = new System.Drawing.Point(284, 332);
+            this.btnRegistrarCuota.Name = "btnRegistrarCuota";
+            this.btnRegistrarCuota.Size = new System.Drawing.Size(169, 43);
+            this.btnRegistrarCuota.TabIndex = 17;
+            this.btnRegistrarCuota.Text = "Registrar Cuota";
+            this.btnRegistrarCuota.UseVisualStyleBackColor = true;
+            // 
             // frmPago
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnRegistrarCuota);
             this.Controls.Add(this.btnVolver);
             this.Controls.Add(this.btnCancelPago);
             this.Controls.Add(this.label2);
@@ -161,5 +172,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnCancelPago;
         private System.Windows.Forms.Button btnVolver;
+        private System.Windows.Forms.Button btnRegistrarCuota;
     }
 }
